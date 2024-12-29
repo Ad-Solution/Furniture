@@ -3,13 +3,13 @@
 const homeGardenData = [
     {
         id: 1,
-        name: 'Sofa Set',
-        category: 'Furniture',
-        price: 15000,
-        location: 'Los Angeles',
+        name: '',
+        category: '',
+        price: ,
+        location: '',
         images: ['img11.jpg', 'img11.jpg', 'img11.jpg', 'img11.jpg'],
-        postedDate: '2023-05-01',
-        description: 'This sofa set is perfect for outdoor lounging and dining. It is in excellent condition and includes a table and four chairs.'
+        postedDate: '',
+        description: ''
     },
     // Add more home and garden items here
 ];
